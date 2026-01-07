@@ -1,0 +1,134 @@
+timestamp,level,cmdb_id,failure_type
+1614789240,Resource Failure,MG01,High Memory Usage
+1614792360,Application Failure,MG02,High JVM CPU Load
+1614797100,Resource Failure,Mysql02,High Memory Usage
+1614798240,Application Failure,Tomcat02,JVM Out of Memory Heap
+1614807060,Resource Failure,Redis02,High Memory Usage
+1614808020,Application Failure,Tomcat01,JVM Out of Memory Heap
+1614810000,Application Failure,MG02,JVM Out of Memory Heap
+1614811320,Resource Failure,Tomcat03,High Disk I/O Read Usage
+1614812340,Resource Failure,Redis02,High CPU Usage
+1614815220,Application Failure,Tomcat01,JVM Out of Memory Heap
+1614818340,Resource Failure,MG02,High CPU Usage
+1614825000,Resource Failure,IG01,High Memory Usage
+1614827820,Resource Failure,MG01,High Disk I/O Read Usage
+1614829800,Resource Failure,apache01,High Memory Usage
+1614834720,Resource Failure,MG01,High Memory Usage
+1614856920,Network Failure,Tomcat02,Network Latency
+1614857760,Application Failure,MG02,JVM Out of Memory Heap
+1614858540,Resource Failure,Tomcat03,High Disk I/O Read Usage
+1614860040,Resource Failure,Redis02,High CPU Usage
+1614861840,Network Failure,MG01,Network Packet Loss
+1614863160,Application Failure,IG01,High JVM CPU Load
+1614866400,Application Failure,MG01,JVM Out of Memory Heap
+1614867900,Application Failure,IG01,JVM Out of Memory Heap
+1614872100,Resource Failure,Tomcat02,High Disk I/O Read Usage
+1614967200,Resource Failure,Mysql01,High CPU Usage
+1614972960,Resource Failure,IG01,High CPU Usage
+1614977760,Resource Failure,MG01,High Disk I/O Read Usage
+1614979860,Application Failure,Tomcat02,High JVM CPU Load
+1614982800,Resource Failure,Tomcat01,High Memory Usage
+1614984720,Resource Failure,apache02,High Disk I/O Read Usage
+1614988680,Application Failure,Tomcat02,High JVM CPU Load
+1615013160,Network Failure,Tomcat03,Network Latency
+1615015140,Resource Failure,IG02,High Disk Space Usage
+1615026480,Application Failure,Tomcat02,JVM Out of Memory Heap
+1615027920,Network Failure,apache02,Network Packet Loss
+1615034640,Resource Failure,Tomcat04,High CPU Usage
+1615043880,Network Failure,Tomcat01,Network Latency
+1615044960,Network Failure,MG01,Network Latency
+1615048320,Network Failure,MG02,Network Packet Loss
+1615053120,Resource Failure,Redis02,High CPU Usage
+1615058460,Resource Failure,Tomcat01,High Disk I/O Read Usage
+1615060740,Application Failure,Tomcat02,JVM Out of Memory Heap
+1615070100,Resource Failure,IG02,High CPU Usage
+1615073520,Network Failure,Tomcat02,Network Latency
+1615075860,Resource Failure,Tomcat03,High CPU Usage
+1615086540,Resource Failure,IG02,High CPU Usage
+1615091760,Resource Failure,Tomcat04,High Memory Usage
+1615094640,Resource Failure,IG01,High CPU Usage
+1615102860,Resource Failure,Tomcat01,High Disk I/O Read Usage
+1615104480,Network Failure,MG01,Network Latency
+1615105740,Network Failure,Tomcat04,Network Packet Loss
+1615110720,Resource Failure,Tomcat01,High CPU Usage
+1615114740,Network Failure,apache02,Network Latency
+1615124160,Network Failure,Tomcat01,Network Packet Loss
+1615224000,Resource Failure,apache01,High Disk I/O Read Usage
+1615237860,Resource Failure,IG02,High Disk Space Usage
+1615255020,Resource Failure,Tomcat04,High CPU Usage
+1615260000,Network Failure,Tomcat01,Network Latency
+1615266600,Network Failure,MG02,Network Packet Loss
+1615270440,Network Failure,MG02,Network Latency
+1615272120,Resource Failure,Redis02,High CPU Usage
+1615274700,Network Failure,Tomcat01,Network Packet Loss
+1615275900,Resource Failure,Tomcat01,High Disk I/O Read Usage
+1615278180,Application Failure,Tomcat02,JVM Out of Memory Heap
+1615280160,Network Failure,MG02,Network Latency
+1615282740,Resource Failure,apache01,High Disk Space Usage
+1615284480,Resource Failure,IG02,High CPU Usage
+1615288440,Network Failure,Tomcat02,Network Latency
+1615290120,Resource Failure,Tomcat03,High CPU Usage
+1615292700,Network Failure,apache01,Network Packet Loss
+1615295220,Network Failure,apache01,Network Latency
+1615300320,Resource Failure,IG02,High CPU Usage
+1615315440,Resource Failure,Tomcat01,High Disk I/O Read Usage
+1615322280,Resource Failure,Tomcat01,High CPU Usage
+1615336200,Resource Failure,apache01,High CPU Usage
+1615344180,Network Failure,Tomcat01,Network Packet Loss
+1615357260,Resource Failure,Tomcat02,High Disk I/O Read Usage
+1615358220,Application Failure,Tomcat02,High JVM CPU Load
+1615359720,Network Failure,apache02,Network Packet Loss
+1615360740,Network Failure,apache02,Network Latency
+1615362180,Resource Failure,apache02,High Disk I/O Read Usage
+1615365720,Network Failure,Tomcat01,Network Latency
+1615369860,Application Failure,Tomcat02,JVM Out of Memory Heap
+1615374900,Resource Failure,MG02,High Disk I/O Read Usage
+1615384980,Resource Failure,IG02,High Disk I/O Read Usage
+1615385940,Resource Failure,MG02,High Disk I/O Read Usage
+1615515840,Resource Failure,IG02,High CPU Usage
+1615517640,Network Failure,MG01,Network Packet Loss
+1615528980,Network Failure,MG02,Network Packet Loss
+1615533000,Resource Failure,MG01,High CPU Usage
+1615534680,Network Failure,MG01,Network Packet Loss
+1615536900,Resource Failure,IG02,High Disk I/O Read Usage
+1615537560,Network Failure,apache02,Network Packet Loss
+1615540440,Resource Failure,Redis02,High CPU Usage
+1615543200,Application Failure,Tomcat02,JVM Out of Memory Heap
+1615553160,Resource Failure,Redis01,High CPU Usage
+1615559700,Network Failure,Tomcat03,Network Packet Loss
+1616428980,Resource Failure,Tomcat03,High CPU Usage
+1616432460,Resource Failure,MG01,High Disk I/O Read Usage
+1616435220,Resource Failure,MG01,High Disk I/O Read Usage
+1616438160,Resource Failure,Tomcat01,High Memory Usage
+1616448480,Network Failure,Tomcat02,Network Packet Loss
+1616452920,Network Failure,MG01,Network Packet Loss
+1616482200,Network Failure,MG01,Network Packet Loss
+1616482980,Resource Failure,Tomcat02,High Disk I/O Read Usage
+1616492520,Network Failure,MG02,Network Latency
+1616493780,Network Failure,MG01,Network Latency
+1616496180,Resource Failure,Tomcat03,High CPU Usage
+1616504820,Network Failure,Tomcat04,Network Packet Loss
+1616511840,Network Failure,MG02,Network Packet Loss
+1616555280,Network Failure,Tomcat03,Network Packet Loss
+1616556660,Network Failure,Tomcat01,Network Packet Loss
+1616560560,Resource Failure,MG02,High Disk I/O Read Usage
+1616569560,Network Failure,MG01,Network Latency
+1616575620,Resource Failure,Tomcat01,High CPU Usage
+1616585040,Network Failure,MG01,Network Latency
+1616586600,Network Failure,MG02,Network Latency
+1616589240,Network Failure,Tomcat03,Network Packet Loss
+1616602020,Network Failure,MG02,Network Latency
+1616602740,Resource Failure,apache01,High Disk I/O Read Usage
+1616611380,Resource Failure,MG02,High Disk I/O Read Usage
+1616625600,Resource Failure,apache02,High CPU Usage
+1616629200,Network Failure,Tomcat03,Network Packet Loss
+1616634240,Resource Failure,Tomcat01,High Disk I/O Read Usage
+1616636280,Resource Failure,MG01,High CPU Usage
+1616664120,Network Failure,Tomcat01,Network Packet Loss
+1616670000,Resource Failure,IG02,High CPU Usage
+1616670900,Network Failure,Tomcat04,Network Packet Loss
+1616672400,Resource Failure,Tomcat04,High CPU Usage
+1616675100,Network Failure,MG01,Network Latency
+1616676600,Network Failure,apache01,Network Packet Loss
+1616680860,Network Failure,MG02,Network Packet Loss
+1616685360,Resource Failure,Redis02,High CPU Usage
