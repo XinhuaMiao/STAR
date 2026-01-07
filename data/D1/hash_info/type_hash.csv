@@ -1,0 +1,2 @@
+Kubernetes Container CPU Load,Kubernetes Container Memory Load,Kubernetes Container Network Latency,Kubernetes Container Network Packet Loss,Kubernetes Container Network Resource Packet Corruption,Kubernetes Container Network Resource Packet Duplication,Kubernetes Container Process Termination,Kubernetes Container Read I/O Load,Kubernetes Container Write I/O Load,Node CPU Failure,Node CPU Spiking,Node Disk Read I/O Consumption,Node Disk Space Consumption,Node Disk Write I/O Consumption,Node Memory Consumption
+0,0,1,1,1,1,0,0,0,3,3,4,4,4,5

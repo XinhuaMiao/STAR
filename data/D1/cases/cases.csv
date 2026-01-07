@@ -1,0 +1,211 @@
+timestamp,level,cmdb_id,failure_type
+1651338400,node,node-6,Node CPU Failure
+1651339370,node,node-6,Node CPU Failure
+1651340937,pod,recommendationservice-0,Kubernetes Container Read I/O Load
+1651342931,node,node-5,Node Disk Read I/O Consumption
+1651347456,pod,frontend-2,Kubernetes Container Memory Load
+1651353978,node,node-1,Node Disk Read I/O Consumption
+1651355555,pod,shippingservice-2,Kubernetes Container Network Packet Loss
+1651358169,service,paymentservice,Kubernetes Container Network Resource Packet Duplication
+1651361221,node,node-3,Node Disk Read I/O Consumption
+1651362327,service,currencyservice,Kubernetes Container Network Packet Loss
+1651365415,service,emailservice,Kubernetes Container Network Packet Loss
+1651366271,pod,checkoutservice-0,Kubernetes Container CPU Load
+1651367122,service,cartservice,Kubernetes Container Network Resource Packet Duplication
+1651369063,service,checkoutservice,Kubernetes Container CPU Load
+1651371142,node,node-4,Node Memory Consumption
+1651373643,node,node-1,Node Disk Space Consumption
+1651374560,node,node-5,Node Disk Space Consumption
+1651377586,pod,frontend-1,Kubernetes Container Network Latency
+1651379795,pod,productcatalogservice-2,Kubernetes Container Process Termination
+1651380417,service,emailservice,Kubernetes Container CPU Load
+1651382580,pod,frontend-0,Kubernetes Container Write I/O Load
+1651383819,pod,productcatalogservice-0,Kubernetes Container Network Resource Packet Corruption
+1651385173,pod,checkoutservice2-0,Kubernetes Container Process Termination
+1651386533,service,paymentservice,Kubernetes Container CPU Load
+1651388079,node,node-5,Node Disk Write I/O Consumption
+1651389043,service,checkoutservice,Kubernetes Container Network Latency
+1651392196,pod,recommendationservice-0,Kubernetes Container Write I/O Load
+1651393380,pod,emailservice-1,Kubernetes Container Read I/O Load
+1651394766,node,node-3,Node Disk Write I/O Consumption
+1651395543,node,node-4,Node CPU Spiking
+1651396610,node,node-6,Node Disk Read I/O Consumption
+1651398576,pod,frontend-0,Kubernetes Container CPU Load
+1651398958,service,emailservice,Kubernetes Container Read I/O Load
+1651401140,service,paymentservice,Kubernetes Container CPU Load
+1651402680,service,frontend,Kubernetes Container Read I/O Load
+1651403338,service,shippingservice,Kubernetes Container Network Latency
+1651404706,node,node-5,Node CPU Failure
+1651406879,node,node-1,Node CPU Failure
+1651407633,pod,shippingservice-0,Kubernetes Container CPU Load
+1651409804,node,node-6,Node Disk Write I/O Consumption
+1651410232,pod,cartservice-2,Kubernetes Container Network Packet Loss
+1651414976,service,emailservice,Kubernetes Container Network Resource Packet Duplication
+1651415840,service,frontend,Kubernetes Container Network Resource Packet Duplication
+1651417166,pod,recommendationservice-2,Kubernetes Container Network Resource Packet Corruption
+1651419605,pod,currencyservice-2,Kubernetes Container Read I/O Load
+1651510238,pod,shippingservice2-0,Kubernetes Container Memory Load
+1651511197,node,node-2,Node Memory Consumption
+1651512508,node,node-2,Node Disk Space Consumption
+1651514529,service,adservice,Kubernetes Container Network Latency
+1651515718,pod,adservice2-0,Kubernetes Container Network Resource Packet Corruption
+1651518109,pod,paymentservice-1,Kubernetes Container Network Packet Loss
+1651519906,service,productcatalogservice,Kubernetes Container Network Resource Packet Duplication
+1651520967,pod,productcatalogservice-2,Kubernetes Container Write I/O Load
+1651522628,node,node-1,Node Disk Space Consumption
+1651523554,service,recommendationservice,Kubernetes Container Read I/O Load
+1651526238,service,recommendationservice,Kubernetes Container Process Termination
+1651527361,pod,currencyservice-0,Kubernetes Container Network Packet Loss
+1651532212,pod,recommendationservice-1,Kubernetes Container Network Packet Loss
+1651533257,service,recommendationservice,Kubernetes Container Network Packet Loss
+1651535538,service,cartservice,Kubernetes Container Network Packet Loss
+1651537524,pod,emailservice-2,Kubernetes Container Network Resource Packet Corruption
+1651538629,service,emailservice,Kubernetes Container Write I/O Load
+1651539483,node,node-3,Node CPU Spiking
+1651542023,pod,checkoutservice-0,Kubernetes Container Process Termination
+1651544319,service,frontend,Kubernetes Container Write I/O Load
+1651545391,service,adservice,Kubernetes Container Read I/O Load
+1651547094,node,node-2,Node Memory Consumption
+1651551592,service,currencyservice,Kubernetes Container Network Resource Packet Corruption
+1651553048,service,checkoutservice,Kubernetes Container CPU Load
+1651555148,pod,adservice-2,Kubernetes Container Network Latency
+1651557284,service,currencyservice,Kubernetes Container Network Packet Loss
+1651559992,service,checkoutservice,Kubernetes Container Network Resource Packet Corruption
+1651562022,service,productcatalogservice,Kubernetes Container Network Packet Loss
+1651564006,pod,shippingservice-1,Kubernetes Container Memory Load
+1651567977,node,node-4,Node CPU Spiking
+1651568969,node,node-2,Node Memory Consumption
+1651570759,pod,paymentservice-1,Kubernetes Container Read I/O Load
+1651571935,pod,productcatalogservice2-0,Kubernetes Container Network Latency
+1651573816,node,node-3,Node Disk Space Consumption
+1651574154,service,emailservice,Kubernetes Container Read I/O Load
+1651575912,pod,shippingservice-2,Kubernetes Container Memory Load
+1651577016,node,node-6,Node CPU Spiking
+1651578454,service,productcatalogservice,Kubernetes Container Memory Load
+1651579656,node,node-6,Node CPU Failure
+1651585999,node,node-5,Node Disk Write I/O Consumption
+1651588509,service,recommendationservice,Kubernetes Container Memory Load
+1651589596,service,frontend,Kubernetes Container Network Resource Packet Corruption
+1651592393,pod,checkoutservice-2,Kubernetes Container Read I/O Load
+1651682649,node,node-5,Node Disk Write I/O Consumption
+1651688141,pod,emailservice-2,Kubernetes Container Read I/O Load
+1651688909,pod,shippingservice2-0,Kubernetes Container Memory Load
+1651690183,node,node-3,Node Disk Space Consumption
+1651692556,pod,productcatalogservice-0,Kubernetes Container Write I/O Load
+1651694960,service,cartservice,Kubernetes Container Network Latency
+1651696337,node,node-3,Node Disk Write I/O Consumption
+1651699208,pod,recommendationservice-1,Kubernetes Container CPU Load
+1651701553,node,node-4,Node CPU Failure
+1651703269,pod,recommendationservice2-0,Kubernetes Container Network Packet Loss
+1651710862,node,node-1,Node Disk Read I/O Consumption
+1651712135,service,checkoutservice,Kubernetes Container Network Latency
+1651712583,node,node-1,Node Disk Space Consumption
+1651715252,node,node-4,Node Disk Read I/O Consumption
+1651716458,pod,recommendationservice-2,Kubernetes Container Read I/O Load
+1651717501,node,node-1,Node Disk Read I/O Consumption
+1651719510,node,node-3,Node CPU Spiking
+1651721971,node,node-1,Node Disk Read I/O Consumption
+1651723658,service,cartservice,Kubernetes Container Network Resource Packet Corruption
+1651728277,pod,cartservice-0,Kubernetes Container Memory Load
+1651729272,node,node-3,Node Disk Write I/O Consumption
+1651734682,pod,paymentservice-0,Kubernetes Container Memory Load
+1651736646,service,recommendationservice,Kubernetes Container Network Packet Loss
+1651738176,service,recommendationservice,Kubernetes Container CPU Load
+1651739324,node,node-3,Node Disk Write I/O Consumption
+1651740365,service,recommendationservice,Kubernetes Container Read I/O Load
+1651742838,service,productcatalogservice,Kubernetes Container Process Termination
+1651744078,pod,checkoutservice-2,Kubernetes Container Process Termination
+1651746090,pod,cartservice-0,Kubernetes Container Process Termination
+1651746729,node,node-6,Node CPU Failure
+1651751150,node,node-4,Node CPU Failure
+1651753127,pod,currencyservice-2,Kubernetes Container CPU Load
+1651755177,service,cartservice,Kubernetes Container Network Resource Packet Corruption
+1651757106,pod,adservice2-0,Kubernetes Container Network Packet Loss
+1651758487,service,checkoutservice,Kubernetes Container CPU Load
+1651760033,service,cartservice,Kubernetes Container Network Resource Packet Corruption
+1651761708,node,node-4,Node Memory Consumption
+1651762517,pod,frontend-1,Kubernetes Container Network Resource Packet Corruption
+1651858208,service,productcatalogservice,Kubernetes Container Network Resource Packet Corruption
+1651859583,pod,frontend-2,Kubernetes Container Write I/O Load
+1651860249,node,node-2,Node Disk Space Consumption
+1651863211,service,emailservice,Kubernetes Container Network Packet Loss
+1651863857,node,node-6,Node Disk Write I/O Consumption
+1651867434,node,node-5,Node Disk Space Consumption
+1651870394,pod,productcatalogservice-2,Kubernetes Container Network Latency
+1651872135,node,node-5,Node Memory Consumption
+1651875390,node,node-1,Node Disk Space Consumption
+1651876445,service,frontend,Kubernetes Container Read I/O Load
+1651877333,pod,currencyservice-0,Kubernetes Container CPU Load
+1651880837,service,productcatalogservice,Kubernetes Container Network Latency
+1651884469,pod,emailservice-1,Kubernetes Container Network Packet Loss
+1651885258,node,node-6,Node Disk Space Consumption
+1651885771,service,cartservice,Kubernetes Container Network Latency
+1651889566,service,recommendationservice,Kubernetes Container Memory Load
+1651891523,service,recommendationservice,Kubernetes Container Write I/O Load
+1651891895,node,node-4,Node CPU Spiking
+1651896807,node,node-6,Node Disk Read I/O Consumption
+1651897275,service,currencyservice,Kubernetes Container Memory Load
+1651899367,pod,recommendationservice-1,Kubernetes Container CPU Load
+1651900839,node,node-5,Node Memory Consumption
+1651904204,node,node-3,Node CPU Spiking
+1651904895,service,productcatalogservice,Kubernetes Container Process Termination
+1651906320,service,recommendationservice,Kubernetes Container Read I/O Load
+1651908253,service,adservice,Kubernetes Container Memory Load
+1651909424,service,adservice,Kubernetes Container Read I/O Load
+1651910133,service,frontend,Kubernetes Container Network Packet Loss
+1651913210,node,node-6,Node Disk Read I/O Consumption
+1651915992,service,adservice,Kubernetes Container Memory Load
+1651918114,node,node-1,Node Disk Write I/O Consumption
+1651919818,service,frontend,Kubernetes Container Network Latency
+1651920562,pod,adservice-0,Kubernetes Container Write I/O Load
+1651922476,node,node-2,Node Disk Space Consumption
+1651926867,node,node-4,Node Memory Consumption
+1651928188,node,node-5,Node Disk Read I/O Consumption
+1651929878,node,node-1,Node CPU Failure
+1651934221,pod,adservice2-0,Kubernetes Container Read I/O Load
+1651935446,service,adservice,Kubernetes Container Network Latency
+1652026980,pod,emailservice-0,Kubernetes Container Write I/O Load
+1652027890,pod,emailservice-1,Kubernetes Container Read I/O Load
+1652028651,service,checkoutservice,Kubernetes Container CPU Load
+1652029802,pod,frontend-2,Kubernetes Container Network Packet Loss
+1652031460,service,shippingservice,Kubernetes Container Read I/O Load
+1652032391,pod,shippingservice-1,Kubernetes Container CPU Load
+1652034858,service,frontend,Kubernetes Container Network Packet Loss
+1652035716,node,node-5,Node CPU Failure
+1652044466,pod,shippingservice-1,Kubernetes Container CPU Load
+1652046023,service,emailservice,Kubernetes Container Write I/O Load
+1652047629,service,recommendationservice,Kubernetes Container Memory Load
+1652049367,service,productcatalogservice,Kubernetes Container Network Packet Loss
+1652051200,pod,recommendationservice-2,Kubernetes Container Memory Load
+1652052222,service,emailservice,Kubernetes Container Memory Load
+1652053117,node,node-3,Node Disk Space Consumption
+1652055279,pod,shippingservice-0,Kubernetes Container Network Resource Packet Duplication
+1652056357,node,node-3,Node CPU Failure
+1652058023,node,node-1,Node Disk Space Consumption
+1652060333,pod,recommendationservice2-0,Kubernetes Container Write I/O Load
+1652061480,service,currencyservice,Kubernetes Container CPU Load
+1652063842,service,recommendationservice,Kubernetes Container Write I/O Load
+1652064977,node,node-4,Node Memory Consumption
+1652066468,service,paymentservice,Kubernetes Container Memory Load
+1652069584,pod,adservice-1,Kubernetes Container Read I/O Load
+1652072251,service,adservice,Kubernetes Container Process Termination
+1652075078,pod,checkoutservice2-0,Kubernetes Container Network Packet Loss
+1652077083,service,cartservice,Kubernetes Container Network Resource Packet Corruption
+1652078717,service,productcatalogservice,Kubernetes Container Network Resource Packet Corruption
+1652080322,service,frontend,Kubernetes Container Network Resource Packet Corruption
+1652083866,node,node-5,Node CPU Failure
+1652087378,node,node-3,Node Disk Write I/O Consumption
+1652088630,pod,frontend-1,Kubernetes Container CPU Load
+1652089514,pod,adservice-1,Kubernetes Container Read I/O Load
+1652090619,pod,frontend-2,Kubernetes Container Network Resource Packet Corruption
+1652092703,pod,productcatalogservice-0,Kubernetes Container Network Packet Loss
+1652093544,pod,paymentservice-2,Kubernetes Container Process Termination
+1652097055,pod,emailservice-2,Kubernetes Container Network Packet Loss
+1652099503,service,emailservice,Kubernetes Container Write I/O Load
+1652101150,node,node-4,Node CPU Failure
+1652102061,pod,cartservice-2,Kubernetes Container Network Resource Packet Corruption
+1652103411,node,node-2,Node CPU Failure
+1652104717,pod,currencyservice-2,Kubernetes Container CPU Load
+1652105625,node,node-6,Node Disk Read I/O Consumption
+1652108177,service,productcatalogservice,Kubernetes Container Network Resource Packet Corruption
+1652110645,pod,recommendationservice-0,Kubernetes Container Memory Load
