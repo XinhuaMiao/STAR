@@ -1,5 +1,9 @@
 # Getting Started for the STAR method
 
+This is the offcial repository of paper "Dual-AN: A Hierarchical Framework Synergizes Frequency and Time Domain for Non-stationary Time Series Forecasting"
+
+![image](https://github.com/XinhuaMiao/STAR/blob/main/fig/Overview.png)
+
 ## Environment
 Python 3.9.13, PyTorch 1.12.1, scikit-learn 1.1.2, and DGL 0.9.0 are suggested.
 
