@@ -1,6 +1,6 @@
 # Getting Started for the STAR method
 
-This is the offcial repository of paper "Dual-AN: A Hierarchical Framework Synergizes Frequency and Time Domain for Non-stationary Time Series Forecasting"
+This is the offcial repository of paper "Spatial-Temporal Adaptive Normalization for Robust Multimodal Representation Learning in Microservice Incident Management"
 
 ![image](https://github.com/XinhuaMiao/STAR/blob/main/fig/Overview.png)
 
