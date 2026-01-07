@@ -74,4 +74,8 @@ Take dataset D1 as an example.
 * `max_clusters`: The maximum number of clusters obtained from the cut tree in failure triage. (default: 25)
 * `verbose`: Control the output to be either concise or verbose. (default: False)
 
-More details can be found in the configuration file: STAR-main/config/D1.yaml.# STAR-main
+More details can be found in the configuration file: STAR-main/config/D1.yaml.
+
+## Acknowledgement
+
+We appreciate the github repository of the [ART](https://github.com/bbyldebb/ART) method for its valuable codebase.
