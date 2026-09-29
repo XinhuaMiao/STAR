@@ -1,4 +1,4 @@
-# Getting Started for the STAR method
+# STAR: Adaptive Spatial-Temporal Normalization for Unified Microservice Incident Management
 
 This repository contains the complete implementation for the paper "STAR: Adaptive Spatial-Temporal Normalization for Unified Microservice Incident Management" **accepted** by the 33rd International Conference on Neural Information Processing, **ICONIP 2026** ([arxiv](https://arxiv.org/pdf/2609.31645)).
 
@@ -9,8 +9,7 @@ Python 3.9.13, PyTorch 1.12.1, scikit-learn 1.1.2, and DGL 0.9.0 are suggested.
 
 ## Dataset
 Dataset D1 is collected from a simulated e-commerce microservice system, which is deployed in a real cloud environment with traffic consistent with real business flow. The system comprises 46 instances, including 40 microservice instances and 6 virtual machines. Failure records were collected by replaying the failures over several days in May 2022. The
-failure scenarios are derived from actual failures (Container Hardware, Container Network, Node CPU, Node Disk, and
-Node Memory-related failures). The collected records were labeled with their respective root cause instances and failure types.
+failure scenarios are derived from actual failures (Container Hardware, Container Network, Node CPU, Node Disk, and Node Memory-related failures). The collected records were labeled with their respective root cause instances and failure types.
 
 Dataset D2 is collected from the management system of a top-tier commercial bank, which comprises 18 instances, including microservices, servers, databases, and dockers. Two experienced operators examined the failure records from January 2021 to June 2021 and labeled the root cause instances and failure types (Memory, CPU, Netowork, Disk, JVM-Memory, and JVM-CPU-related failures). Each operator conducted the labeling process separately and cross-checked the labels to ensure consensus.
 
@@ -75,3 +74,7 @@ Take dataset D1 as an example.
 * `verbose`: Control the output to be either concise or verbose. (default: False)
 
 More details can be found in the configuration file: STAR-main/config/D1.yaml.
+
+## Acknowledgement
+
+We appreciate the github repository of the [ART](https://github.com/bbyldebb/ART) method for its valuable codebase.
