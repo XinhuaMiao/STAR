@@ -1,6 +1,6 @@
 # Getting Started for the STAR method
 
-This repository contains the complete implementation for the paper "STAR: Adaptive Spatial-Temporal Normalization for Unified Microservice Incident Management" accepted by the 33rd International Conference on Neural Information Processing, ICONIP 2026 ([arxiv](https://arxiv.org/pdf/2609.31645)).
+This repository contains the complete implementation for the paper "STAR: Adaptive Spatial-Temporal Normalization for Unified Microservice Incident Management" **accepted** by the 33rd International Conference on Neural Information Processing, **ICONIP 2026** ([arxiv](https://arxiv.org/pdf/2609.31645)).
 
 ![image](https://github.com/XinhuaMiao/STAR/blob/main/fig/STAR.png)
 
